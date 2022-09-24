@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CalculadoraMVC
+build_property.RootNamespace = CalculadoraMVC
+build_property.ProjectDir = C:\Users\maria\Desktop\Abacaxi\Escola - 3 ano\LP3\Calculadora\CalculadoraMVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\maria\Desktop\Abacaxi\Escola - 3 ano\LP3\Calculadora\CalculadoraMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/Calculadora/Resultado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYWRvcmFcUmVzdWx0YWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/Operacaoes/Divisao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9lc1xEaXZpc2FvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/Operacaoes/Multiplicacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9lc1xNdWx0aXBsaWNhY2FvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/Operacaoes/ResultadoDiv.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9lc1xSZXN1bHRhZG9EaXYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/Operacaoes/ResultadoMult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9lc1xSZXN1bHRhZG9NdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/Operacaoes/ResultadoSoma.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9lc1xSZXN1bHRhZG9Tb21hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/Operacaoes/ResultadoSub.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9lc1xSZXN1bHRhZG9TdWIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/Operacaoes/Soma.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9lc1xTb21hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/Operacaoes/Subtracao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjYW9lc1xTdWJ0cmFjYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Abacaxi/Escola - 3 ano/LP3/Calculadora/CalculadoraMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fm8gg9yqrt
